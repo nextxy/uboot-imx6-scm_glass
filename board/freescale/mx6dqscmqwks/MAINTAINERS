@@ -1,0 +1,13 @@
+MX6DQSCMQWKS BOARD
+M:	Alejandro Sierra <alejandro.sierra@freescale.com>
+S:	Maintained
+F:	board/freescale/mx6dqscmqwks/
+F:	include/configs/mx6dqscmqwks.h
+F:	configs/mx6dqscm_1gb_evb_defconfig
+F:	configs/mx6dqscm_1gb_evb_spinor_defconfig
+F:	configs/mx6dqscm_1gb_interleaving_evb_defconfig
+F:	configs/mx6dqscm_1gb_interleaving_evb_spinor_defconfig
+F:	configs/mx6dqscm_1gb_interleaving_qwks_defconfig
+F:	configs/mx6dqscm_1gb_interleaving_qwks_spinor_defconfig
+F:	configs/mx6dqscm_1gb_qwks_defconfig
+F:	configs/mx6dqscm_1gb_qwks_spinor_defconfig
